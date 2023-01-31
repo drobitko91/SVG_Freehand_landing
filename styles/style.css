@@ -26,6 +26,9 @@ body {
 
 /* header end */
 
+hr {
+    border: 1px solid #EFEEF3;
+}
 
 /* main start */
 .services {
