@@ -1,0 +1,27 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@600&family=Roboto:wght@400;500&display=swap");
+
+body {
+  background-color: #ffffff;
+  user-select: none;
+  width: fit-content;
+  height: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+/* header start */
+
+.header {
+  display: flex;
+  height: 80px;
+  padding: 23px 135px;
+}
+
+.header img {
+  max-width: 200px;
+  height: 35px;
+}
+
+/* header end */
